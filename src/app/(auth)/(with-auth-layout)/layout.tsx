@@ -1,3 +1,4 @@
+// Route Group Course
 export default function Authlayout({
     children,
 }: {

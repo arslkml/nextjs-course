@@ -1,3 +1,4 @@
+// Catch All Segment
 export default function Docs({ params }: {
     params: {
         slug: string[]

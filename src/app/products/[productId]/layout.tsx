@@ -1,3 +1,5 @@
+// Nested Layout
+
 export default function ProductDetailsLayout({
     children,
 }: {
