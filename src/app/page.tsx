@@ -6,6 +6,7 @@ export default function page() {
       <h1>Welcome Home</h1>
       <Link href="/blog/first">Blog</Link>
       <Link href="/products">Product</Link>
+      <Link href="/photo-feed">Photo Feed</Link>
     </>
   )
 }

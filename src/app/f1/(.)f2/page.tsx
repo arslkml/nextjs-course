@@ -1,7 +1,5 @@
 export default function InterceptedF2() {
     return (
-        <>
-            <h1>(.) Intercepted F2 Page</h1>
-        </>
+        <h1>(.)F2 Interception</h1>
     )
 }
